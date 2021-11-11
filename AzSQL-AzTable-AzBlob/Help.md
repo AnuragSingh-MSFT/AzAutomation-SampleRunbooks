@@ -39,7 +39,7 @@ Similar concept could be applied to connect to other Azure resources.
 
     c. Follow the step above for Azure Storage Account connection string. 
 
-    ![Azure Automation Variable](.\Automation-Variable.jpg)
+    ![Azure Automation Variable](Automation-Variable.jpg)
 
 2. If you check the **Modules** section under "Shared Resource", the modules you might need are all here. You can also Add module if not available. 
 
